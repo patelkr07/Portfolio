@@ -12,6 +12,7 @@ body {
     margin-bottom: 50px;
     border-bottom: 4px solid rgb(233, 233, 233);
     display: flex;
+    font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
 
@@ -44,6 +45,8 @@ a{
     border: 20px;
     margin-right: 900px;
     background: white;
+    color: #4aaaaf;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 
