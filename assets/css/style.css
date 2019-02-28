@@ -13,25 +13,34 @@ body {
 
     /* Visual */
     background: #efeee7;
+    background-image: url(../images/concrete_seamless.png)
 }
 
-header {
-    background: #d21034;
+.top-header  {
+    color: #fff;
+    background: white;
+    font-size: 20px;
+    padding: 0px 0px 0px 200px;
+    margin-bottom: 10px;
+    border-bottom: 4px solid rgb(233, 233, 233);
+    display: flex;
 }
 
-h1 {
-    /* Box-model */
-    padding: 20px 0;
 
-    /* Positioning */
-    margin: 0;
-    margin-bottom: 20px;
-    font-size: 28px;
 
-    /* Typography */
-    color: #eee;
-    text-align: center;
-
-    /* Visual */
-    background: #333;
+.header-name {
+    background: #4aaaa5;
+    padding: 20px 0 15px 0;
+    width: 220px;
+    margin-bottom: 3px;
 }
+
+h2 {
+    font-size: 24px;
+}
+
+#top-header{
+    
+}
+
+
